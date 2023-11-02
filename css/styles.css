@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: blueviolet;
+  background-color: aquamarine;
+}
+
+body {
+  background: plum;
+}
+
+a {
+  font-size: 18px;
+}
+
+a:hover {
+  cursor: pointer;
+}
