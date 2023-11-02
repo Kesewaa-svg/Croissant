@@ -8,10 +8,16 @@ body {
   background: plum;
 }
 
-a {
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+footer {
   font-size: 18px;
+  text-align: center;
 }
 
 a:hover {
   cursor: pointer;
+  margin: 0 10px;
 }
