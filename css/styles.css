@@ -11,6 +11,7 @@ body {
 p {
   font-size: 20px;
   font-weight: bold;
+  text-align: center;
 }
 footer {
   font-size: 18px;
@@ -19,5 +20,9 @@ footer {
 
 a:hover {
   cursor: pointer;
-  margin: 0 10px;
+  margin: 30 auto;
+}
+
+.information {
+  color: orange;
 }
